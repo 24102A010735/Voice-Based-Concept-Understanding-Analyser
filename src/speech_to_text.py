@@ -17,7 +17,6 @@ class SpeechToText:
             temp_path = tmp.name
 
         result = self.model.transcribe(temp_path)
-
-        os.remove(temp_path)
-
-        return result["text"]
+        print("DEBUG: Returning tuple", type(result["text"]), temp_path)
+        # Return BOTH transcript and audio path
+        return result["text"], temp_path
