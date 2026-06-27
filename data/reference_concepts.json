@@ -1,0 +1,9 @@
+{
+  "Artificial Intelligence": "Artificial Intelligence is a technology that enables computers to perform tasks that normally require human intelligence. These tasks include learning, reasoning, problem solving, natural language understanding, image recognition and decision making. AI is used in virtual assistants, chatbots, healthcare, autonomous vehicles and many other applications.",
+
+  "Machine Learning": "Machine Learning is a branch of Artificial Intelligence that enables computers to learn from data without being explicitly programmed. It uses algorithms to identify patterns, make predictions and continuously improve performance.",
+
+  "Cloud Computing": "Cloud Computing is the delivery of computing services such as servers, storage, databases, networking and software over the internet. It provides scalability, flexibility and cost efficiency.",
+
+  "Data Science": "Data Science is the process of collecting, analyzing and interpreting data to extract useful insights. It combines statistics, programming and machine learning to support data-driven decisions."
+}
