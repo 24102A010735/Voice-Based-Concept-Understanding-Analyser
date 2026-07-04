@@ -1,8 +1,8 @@
 __pycache__/
-*.pyc
-*.pyo
+*.py[cod]
 *.pyd
-.env
 .venv/
 venv/
-reports/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
