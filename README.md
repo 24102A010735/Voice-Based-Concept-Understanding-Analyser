@@ -93,7 +93,7 @@ Voice-Based Concept Understanding Analyzer
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+[git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/24102A010735/Voice-Based-Concept-Understanding-Analyser.git)
 ```
 
 ### Navigate to the project
