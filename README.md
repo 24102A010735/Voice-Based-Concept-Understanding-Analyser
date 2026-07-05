@@ -129,18 +129,61 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
+## 📸 Application Screenshots
 
-Include screenshots of:
+### 1. Home Page
 
-- Home Page
-- Audio Upload
-- Waveform Visualization
-- Analysis Results
-- Generated PDF Report
-- Final Dashboard
+The landing page of the application where users can view project details, upload student audio, and select the concept reference.
+
+![Home Page](Assets/screenshots/01_home_page.png)
 
 ---
+
+### 2. Audio Upload
+
+Students upload their recorded explanation. The application validates the uploaded audio before processing.
+
+![Audio Upload](Assets/screenshots/02_audio_upload.png)
+
+---
+
+### 3. Audio Waveform
+
+The uploaded audio is converted into a waveform for visualization before AI analysis begins.
+
+![Audio Waveform](Assets/screenshots/03_audio_waveform.png)
+
+---
+
+### 4. AI Analysis Results
+
+The application transcribes the speech, calculates semantic similarity, generates an overall score, assigns a grade, and evaluates conceptual understanding.
+
+![Analysis Results](Assets/screenshots/04_analysis_results.png)
+
+---
+
+### 5. AI Suggestions & Strengths
+
+Personalized suggestions and identified strengths are displayed to help students improve their conceptual understanding.
+
+![AI Suggestions](Assets/screenshots/05_ai_suggestions.png)
+
+---
+
+### 6. Final Evaluation & Report Download
+
+The final evaluation summary is displayed, and users can download the generated PDF report.
+
+![Final Evaluation](Assets/screenshots/06_final_evaluation.png)
+
+---
+
+### 7. Generated PDF Report
+
+Automatically generated professional PDF report containing the waveform, transcription, semantic analysis, score, and evaluation.
+
+![Generated PDF Report](Assets/screenshots/07_generated_pdf_report.png)
 
 ## 📄 Documentation
 
