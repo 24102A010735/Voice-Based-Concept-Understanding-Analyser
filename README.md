@@ -73,15 +73,12 @@ Voice-Based Concept Understanding Analyzer
 ├── Sample Reports
 │
 ├── Source_Code
-│   ├── assets
 │   ├── data
 │   ├── docs
 │   ├── reports
 │   ├── src
-│   ├── tests
 │   ├── app.py
 │   ├── requirements.txt
-│   └── README.md
 │
 └── README.md
 ```
