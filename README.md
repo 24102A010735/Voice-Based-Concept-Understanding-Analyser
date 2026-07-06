@@ -28,14 +28,17 @@ The **Voice-Based Concept Understanding Analyzer** addresses this challenge by a
 ## 🛠️ Technologies Used
 
 ### Frontend
+
 - Streamlit
 - HTML
 - CSS
 
 ### Backend
+
 - Python
 
 ### Machine Learning
+
 - OpenAI Whisper
 - Sentence Transformers
 - Librosa
@@ -43,12 +46,15 @@ The **Voice-Based Concept Understanding Analyzer** addresses this challenge by a
 - Scikit-learn
 
 ### Visualization
+
 - Matplotlib
 
 ### Report Generation
+
 - ReportLab
 
 ### Version Control
+
 - Git
 - GitHub
 
@@ -181,6 +187,14 @@ The final evaluation summary is displayed, and users can download the generated 
 Automatically generated professional PDF report containing the waveform, transcription, semantic analysis, score, and evaluation.
 
 ![Generated PDF Report](Assets/screenshots/07_generated_pdf_report.png)
+
+## 🎥 Project Demo
+
+Download or watch the demo video:
+
+[📹 Project Demo Video](Assets/demo/project_demo.mp4)
+
+---
 
 ## 📄 Documentation
 
