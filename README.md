@@ -193,6 +193,7 @@ Automatically generated professional PDF report containing the waveform, transcr
 Download or watch the demo video:
 
 [📹 Project Demo Video](Assets/demo/project_demo.mp4)
+https://www.image2url.com/r2/default/videos/1783307247012-9233734a-402e-48ba-a7d7-c5bf78bf80bd.mp4
 
 ---
 
